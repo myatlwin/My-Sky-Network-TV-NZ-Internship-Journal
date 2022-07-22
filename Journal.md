@@ -79,7 +79,7 @@ Check the script. If it's not running, start the IR hub connected to RedRat devi
 
 #cd/home/XA/XB
 
-# ./startServer_XYZ.sh
+ ./startServer_XYZ.sh
 
 
 Run IR signal sending certain script
